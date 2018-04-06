@@ -1,0 +1,30 @@
+C:\Users\iriba\source\repos\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.exe.config
+C:\Users\iriba\source\repos\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.exe
+C:\Users\iriba\source\repos\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.pdb
+C:\Users\iriba\source\repos\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.csprojResolveAssemblyReference.cache
+C:\Users\iriba\source\repos\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.Form1.resources
+C:\Users\iriba\source\repos\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.Properties.Resources.resources
+C:\Users\iriba\source\repos\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.csproj.GenerateResource.Cache
+C:\Users\iriba\source\repos\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.csproj.CoreCompileInputs.cache
+C:\Users\iriba\source\repos\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.exe
+C:\Users\iriba\source\repos\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.pdb
+C:\Users\iriba\Desktop\Odevler Ve Projeler\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.exe.config
+C:\Users\iriba\Desktop\Odevler Ve Projeler\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.exe
+C:\Users\iriba\Desktop\Odevler Ve Projeler\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.pdb
+C:\Users\iriba\Desktop\Odevler Ve Projeler\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.csprojResolveAssemblyReference.cache
+C:\Users\iriba\Desktop\Odevler Ve Projeler\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.Properties.Resources.resources
+C:\Users\iriba\Desktop\Odevler Ve Projeler\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.csproj.GenerateResource.Cache
+C:\Users\iriba\Desktop\Odevler Ve Projeler\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.csproj.CoreCompileInputs.cache
+C:\Users\iriba\Desktop\Odevler Ve Projeler\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.exe
+C:\Users\iriba\Desktop\Odevler Ve Projeler\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.pdb
+C:\Users\iriba\Desktop\Odevler Ve Projeler\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.Frm_Maze.resources
+C:\Users\iriba\Desktop\Odevler Ve Projeler\yzmSinamaOdev2\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.exe.config
+C:\Users\iriba\Desktop\Odevler Ve Projeler\yzmSinamaOdev2\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.exe
+C:\Users\iriba\Desktop\Odevler Ve Projeler\yzmSinamaOdev2\YazilimSinamaOdev2\YazilimSinamaOdev2\bin\Debug\YazilimSinamaOdev2.pdb
+C:\Users\iriba\Desktop\Odevler Ve Projeler\yzmSinamaOdev2\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.csprojResolveAssemblyReference.cache
+C:\Users\iriba\Desktop\Odevler Ve Projeler\yzmSinamaOdev2\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.Frm_Maze.resources
+C:\Users\iriba\Desktop\Odevler Ve Projeler\yzmSinamaOdev2\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.Properties.Resources.resources
+C:\Users\iriba\Desktop\Odevler Ve Projeler\yzmSinamaOdev2\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.csproj.GenerateResource.Cache
+C:\Users\iriba\Desktop\Odevler Ve Projeler\yzmSinamaOdev2\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.csproj.CoreCompileInputs.cache
+C:\Users\iriba\Desktop\Odevler Ve Projeler\yzmSinamaOdev2\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.exe
+C:\Users\iriba\Desktop\Odevler Ve Projeler\yzmSinamaOdev2\YazilimSinamaOdev2\YazilimSinamaOdev2\obj\Debug\YazilimSinamaOdev2.pdb
